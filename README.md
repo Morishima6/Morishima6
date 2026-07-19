@@ -72,10 +72,14 @@ Zhenxi Gao, *WCI3DT 2024, Smart Innovation, Systems and Technologies, vol. 418*,
 
 ## Experience & Education
 
-- **2026 - Present** - **SenseTime**, Multimodal LLM Department - Algorithm Intern
+### Education
 - **2025 - Present** - **Nanjing University**, LipLab - M.Eng. in Software Engineering
+- **2021 - 2025** - **Nanjing University of Aeronautics and Astronautics** - B.Eng. in Computer Science and Technology
+
+### Instern
+- **2026 - Present** - **SenseTime**, Multimodal LLM Department - Algorithm Intern
 - **2025** - **GoLaxy**, R&D Center - Algorithm Intern
-- **2021 - 2025** - **Nanjing University of Aeronautics and Astronautics** - B.Eng. in Internet of Things Engineering
+
 
 ## Skill Set
 

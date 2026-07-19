@@ -1,12 +1,14 @@
 # Hi, I'm Zhenxi Gao
 
 <pre align="center">
-M   M  ooo  rrr  i  sss  h h  i  m m  aaa  666
-MM MM o   o r  r i s     h h i mm m a   a 6
-M M M o   o rrr  i  sss  hhh  i m m m aaaaa 66
-M   M o   o r r  i     s h h  i m   m a   a 6 6
-M   M  ooo  r  r i  sss  h h  i m   m a   a 666
+ __  __  ___  ____  ___ ____  _   _ ___ __  __    _      __
+|  \/  |/ _ \|  _ \|_ _/ ___|| | | |_ _|  \/  |  / \    / /_
+| |\/| | | | | |_) || |\___ \| |_| || || |\/| | / _ \  | '_ \
+| |  | | |_| |  _ < | | ___) |  _  || || |  | |/ ___ \ | (_) |
+|_|  |_|\___/|_| \_\___|____/|_| |_|___|_|  |_/_/   \_\ \___/
 </pre>
+
+<p align="center"><strong>Morishima6</strong></p>
 
 ## About Me
 

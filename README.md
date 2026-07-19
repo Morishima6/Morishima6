@@ -1,11 +1,11 @@
 # Hi, I'm Zhenxi Gao
 
 <pre align="center">
-  ____    _     ___
- / ___|  / \   / _ \
-| |  _  / _ \ | | | |
-| |_| |/ ___ \| |_| |
- \____/_/   \_\___/
+M   M  ooo  rrr  i  sss  h h  i  m m  aaa  666
+MM MM o   o r  r i s     h h i mm m a   a 6
+M M M o   o rrr  i  sss  hhh  i m m m aaaaa 66
+M   M o   o r r  i     s h h  i m   m a   a 6 6
+M   M  ooo  r  r i  sss  h h  i m   m a   a 666
 </pre>
 
 ## About Me

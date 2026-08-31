@@ -13,20 +13,29 @@
 ## About Me
 
 - Software Engineering master's student at **Nanjing University**, working with the **Language Intelligence Processing Laboratory (LipLab)**
-- Researching **computer-use agents**, human-trajectory retrieval, agentic RAG, and multimodal reasoning
-- Currently an Algorithm Intern with the **Multimodal LLM Department at SenseTime**
-- Building **WANDER**, a retrieval-augmented planning framework for stable long-horizon GUI tasks
+- Researching **long-horizon agent systems**, computer-use agents, agentic RAG, and multimodal reasoning and evaluation
+- Currently an Algorithm Intern with the **Multimodal LLM Department at SenseTime**, working on presentation-agent data and evaluation pipelines
+- Contributing to **MURAL-Presenter**, a revision-aware multi-agent framework for long-horizon presentation authoring
+- Developed **WANDER**, a human-trajectory retrieval-augmented framework for stable long-horizon GUI tasks
 - Interested in research collaboration around agentic systems, GUI automation, and multimodal AI
 
 ## Featured Projects
 
-### [WANDER: Human-Trajectory Retrieval-Augmented Planning for Computer-Use Agent](https://github.com/Morishima6/Computer-Use-Agent)
+### [MURAL-Presenter: Multi-agent Unified Revision-Aware Authoring for Long-horizon Presentations](https://morishima6.github.io/portfolio/mural-presenter/)
 
-An end-to-end computer-use agent with a Reflection-Planner-Grounding-Code Agent pipeline. It turns historical interaction trajectories into reusable canonical units and combines interface-state retrieval with transition-based successor recall.
+A skill-driven multi-agent framework for full-lifecycle presentation authoring. It addresses cross-stage dependencies, cross-slide consistency, and iterative revision through shared deck-level state and impact-aware coordination. My work includes THREAD-Bench, MURAL-Lite training, and systematic model evaluation.
+
+### [Single-Page Slide Benchmark Rubric v2](https://github.com/Morishima6/single-page-slide-rubric)
+
+A versioned evaluation toolkit for single-slide generation, with human-readable rubrics, machine-readable schemas, multi-judge prompts, deterministic scoring, and reproducible model-comparison workflows.
+
+### [WANDER: Bridging Human Workflow and Automated Computer Use via Naturalistic Demonstrations and Enhanced Retrieval](https://github.com/Morishima6/Computer-Use-Agent)
+
+A human-trajectory retrieval-augmented computer-use agent that converts historical desktop operation trajectories into reusable canonical units and combines interface-state retrieval with transition-based successor recall to reduce planning drift in long-horizon GUI tasks. [[AAAI 2027 Submission](https://openreview.net/forum?id=NKKGCmqWej)]
 
 ### [SE-Explorer Agent: A Lightweight ReAct Agent for Software Engineering Tasks](https://github.com/Morishima6/SE-Explorer-Agent)
 
-A lightweight agent that dynamically retrieves technical documents, locates code, gathers evidence, proposes solutions, and verifies results through composable repository tools.
+A lightweight ReAct-style software engineering agent that dynamically retrieves technical documents, locates code, gathers evidence, proposes solutions, and verifies results through composable tools, Evidence Memory, trajectory logging, and verifier feedback.
 
 ### [GenJudge: Explainable Multi-Model Multimodal AIGC Detection](https://github.com/Morishima6/GenJudge)
 
@@ -83,6 +92,7 @@ Zhenxi Gao, *WCI3DT 2024, Smart Innovation, Systems and Technologies, vol. 418*,
 
 <div align="center">
   <a href="https://github.com/Morishima6"><img src="https://img.shields.io/badge/GitHub-Morishima6-181717?style=flat&logo=github&logoColor=white" alt="GitHub profile" /></a>
+  <a href="https://morishima6.github.io/"><img src="https://img.shields.io/badge/Website-Academic%20Homepage-0A66C2?style=flat&logo=githubpages&logoColor=white" alt="Academic homepage" /></a>
   <a href="mailto:gaozhenxi0416@gmail.com"><img src="https://img.shields.io/badge/Email-gaozhenxi0416%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white" alt="Email Zhenxi Gao" /></a>
   <a href="https://doi.org/10.1007/978-981-97-9124-8_28"><img src="https://img.shields.io/badge/Paper-LH--Net-2E7D32?style=flat&logo=readthedocs&logoColor=white" alt="LH-Net publication" /></a>
 </div>

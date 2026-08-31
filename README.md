@@ -101,7 +101,7 @@ Zhenxi Gao, *WCI3DT 2024, Smart Innovation, Systems and Technologies, vol. 418*,
 
 <p align="center">
   <a href="https://github.com/Morishima6">
-    <img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=Morishima6&bg_color=282c34&color=FDFD96&line=FDFD96&point=FFFFFF&area_color=79FE96&title_color=FDFD96&hide_border=true" alt="GitHub contribution activity graph" />
+    <img width="96%" src="./profile/activity-graph.svg" alt="GitHub contribution activity graph" />
   </a>
 </p>
 

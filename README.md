@@ -25,9 +25,9 @@
 
 A skill-driven multi-agent framework for full-lifecycle presentation authoring. It addresses cross-stage dependencies, cross-slide consistency, and iterative revision through shared deck-level state and impact-aware coordination. My work includes THREAD-Bench, MURAL-Lite training, and systematic model evaluation.
 
-### [Single-Page Slide Benchmark Rubric v2](https://github.com/Morishima6/single-page-slide-rubric)
+### [NovaPresent-bench](https://github.com/Morishima6/NovaPresent-bench)
 
-A versioned evaluation toolkit for single-slide generation, with human-readable rubrics, machine-readable schemas, multi-judge prompts, deterministic scoring, and reproducible model-comparison workflows.
+A benchmark suite for evaluating NovaPresent and supporting reproducible presentation-generation experiments.
 
 ### [WANDER: Bridging Human Workflow and Automated Computer Use via Naturalistic Demonstrations and Enhanced Retrieval](https://github.com/Morishima6/Computer-Use-Agent)
 

@@ -1,0 +1,38 @@
+name: Update streak stats
+
+on:
+  schedule:
+    # 每天北京时间 11:00（UTC 03:00）更新
+    - cron: "0 3 * * *"
+  push:
+    paths:
+      - ".github/workflows/streak-stats.yml"
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4
+
+      - name: Generate streak stats
+        uses: DenverCoder1/github-readme-streak-stats@f69662e10794e8757b12d3303a113a30b01c9bc9
+        with:
+          options: "user=${{ github.repository_owner }}&theme=onedark&hide_border=true&locale=en&timezone=Asia/Shanghai&disable_animations=true"
+          path: profile/streak.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit streak stats
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add profile/streak.svg
+          if git diff --cached --quiet; then
+            exit 0
+          fi
+          git commit -m "chore: update streak stats"
+          git push

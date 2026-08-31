@@ -97,7 +97,7 @@ Zhenxi Gao, *WCI3DT 2024, Smart Innovation, Systems and Technologies, vol. 418*,
 
 <p align="center">
   <a href="https://github.com/Morishima6">
-    <img width="80%" src="https://streak-stats.demolab.com/?user=Morishima6&show_icons=true&locale=en&layout=demo&theme=onedark&hide_border=true" alt="GitHub contribution streak" />
+    <img width="80%" src="./profile/streak.svg" alt="GitHub contribution streak" />
   </a>
 </p>
 

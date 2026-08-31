@@ -25,9 +25,9 @@
 
 A skill-driven multi-agent framework for full-lifecycle presentation authoring. It addresses cross-stage dependencies, cross-slide consistency, and iterative revision through shared deck-level state and impact-aware coordination. My work includes THREAD-Bench, MURAL-Lite training, and systematic model evaluation.
 
-### [NovaPresent-bench](https://github.com/Morishima6/NovaPresent-bench)
+### [ThreadBench: Tracing Handoffs, Requirements, and Execution Across Deck Generation](https://github.com/Morishima6/ThreadBench)
 
-A benchmark suite for evaluating NovaPresent and supporting reproducible presentation-generation experiments.
+A process-aware, artifact-grounded benchmark for long-horizon presentation agents, evaluating key handoffs throughout generation and the knowledge, narrative, visual, and page-level quality of the final deck.
 
 ### [WANDER: Bridging Human Workflow and Automated Computer Use via Naturalistic Demonstrations and Enhanced Retrieval](https://github.com/Morishima6/Computer-Use-Agent)
 
